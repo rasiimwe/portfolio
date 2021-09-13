@@ -1,12 +1,19 @@
-title: John Doe # your name (or website title) here
+title: Rebecca Asiimwe (Becky) # your name (or website title) here
 logo: "/images/logo.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Over 15 years experience in Computing, including 5 years experience in the field of Bioinformatics and Data Science, with a demonstrated history of working in the research industry. Skilled in big Data Analysis and Visualization, Analysis of high-throughput next-generation sequencing (NGS) data, Standard NGS bioinformatics toolsets, High-Performance Computing Systems, Shell Scripting, R and R Studio, Python, Machine Learning, Dash and Plotly, C++, Java, GitHub, Git version control, and Database Development and management. 
+  Over 15 years experience in Computing, including 5 years experience in the field of Bioinformatics and Data Science, 
+  with a demonstrated history of working in the research industry. Skilled in big Data Analysis and Visualization, 
+  Analysis of high-throughput next-generation sequencing (NGS) data, Standard NGS bioinformatics toolsets, 
+  High-Performance Computing Systems, Shell Scripting, R and R Studio, Python, Machine Learning, Dash and Plotly, 
+  C++, Java, GitHub, Git version control, and Database Development and management. 
   <br><br>
-  I’m interested in developing computational tools and applying statistical methods, and cutting-edge technologies (including machine learning and artificial intelligence) for integrating, managing and analyzing high-dimensional omics data to unravel true associations and molecular underpinnings of complex and rare diseases
-  I am excited by big, complex and messy data that ends up into beautiful and meaningful visualizations that help us derive actionable insights and new hypotheses for the acceleration of translational and precision medicine
+  I’m interested in developing computational tools and applying statistical methods, and cutting-edge technologies 
+  (including machine learning and artificial intelligence) for integrating, managing and analyzing high-dimensional 
+  omics data to unravel true associations and molecular underpinnings of complex and rare diseases
+  I am excited by big, complex and messy data that ends up into beautiful and meaningful visualizations that help 
+  us derive actionable insights and new hypotheses for the acceleration of translational and precision medicine
   <br><br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+#google_analytics: UA-000000-0 # your Google Analytics tracking ID here
