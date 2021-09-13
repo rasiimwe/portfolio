@@ -2,26 +2,27 @@
 
 ---
 
-### Category Name 1 
-
 [Project 1: Whole genome profiling to derive insights into breast cancer](https://open.library.ubc.ca/media/stream/pdf/24/1.0377717/4)
 <img src="images/TNBC_project.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 2: Understanding temporal changes in different tissues after SIV infection](/pdf/sample_presentation.pdf)
+<img src="images/HIV_project.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 3: Database design, development and optimization](http://example.com/)
+<img src="images/Databases.png?raw=true"/>
 
 ---
 
-### Category Name 2
+- [Project 4: Shiny Apps and Dashboards](http://example.com/)
+<img src="images/Shinyapp1.png?raw=true"/>
+<img src="images/Shinyapp2.png?raw=true"/>
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
+
+
+- [Project 5: Genotyping](http://example.com/)
+- [Project 6: Working with DNA methylation data](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
