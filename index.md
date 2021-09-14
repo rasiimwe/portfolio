@@ -29,10 +29,6 @@
 - Konwar, C., Asiimwe, R., Inkster, M, A., Merrill, S., Negri, L, G., Aristizabal, J, Ma., Rider, C., MacIsaac, L, J., Carlsten, C., Kobor, S, M. [Risk-focused differences in molecular processes implicated in SARS-CoV-2 infection: Corollaries in DNA methylation and gene expression](https://assets.researchsquare.com/files/rs-764250/v1_covered.pdf?c=1628604236). Genome Medicine (Under review)
 - Asiimwe, R., Lam, S., Leung, S., Wang, S., Wan, R., Tinker A., McAlpine, N, J., Woo, M., Huntsman, D., Talhouk, A.  From biobank and data silos into a data commons: convergence to support translational medicine. Journal of Translational Medicine (Under review) 
 
----
-
-
-
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
