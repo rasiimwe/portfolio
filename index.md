@@ -7,22 +7,29 @@
 <img src="images/TNBC_project.png?raw=true"/>
 
 ---
-[Project 2: Understanding temporal changes in different tissues after SIV infection](/pdf/sample_presentation.pdf)
+[Project 2: Understanding temporal changes in different tissues after SIV infection](https://github.com/rasiimwe/SIV_Project)
 <img src="images/HIV_project.png?raw=true"/>
 
 ---
-[Project 3: Database design, development and optimization](http://example.com/)
+[Project 3: Database design, development and optimization](https://open.library.ubc.ca/media/stream/pdf/24/1.0377717/4)
 <img src="images/Databases.png?raw=true"/>
 
 ---
 
 [Project 4: Shiny Apps and Dashboards](http://example.com/)
+App 1 is published in my [thesis](https://open.library.ubc.ca/media/stream/pdf/24/1.0377717/4)
 <img src="images/Shinyapp1.png?raw=true"/>
+
+[Soon to be published:](https://rasiimwe.shinyapps.io/CoADD_KoborLab/)
 <img src="images/Shinyapp2.png?raw=true"/>
+
+[First Shiny Dashboard ever developed as a school project!🙂](https://rasiimwe.shinyapps.io/BCL-app/)
+
 
 ---
 
-[Project 5: DNA methylation and Genotyping Data Analyses](http://example.com/)
+[Project 5: DNA methylation and Genotyping Data Analyses](https://assets.researchsquare.com/files/rs-764250/v1_covered.pdf?c=1628604236)
+Provided is an overview of extracts from developed data [preprocessing pipelines](https://github.com/rasiimwe/Code_Examples/blob/main/DNAme%20preprocessing.Rmd) and downstream analyses on projects (some ongoing), however majority of the analyses were applied upstream for analyses required for this [manuscript](https://assets.researchsquare.com/files/rs-764250/v1_covered.pdf?c=1628604236) and similar projects on DNA methylation analyses. 
 <img src="images/DNAm.png?raw=true"/>
 
 ---
