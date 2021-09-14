@@ -24,7 +24,7 @@ App 1 is published in my [thesis](https://open.library.ubc.ca/media/stream/pdf/2
 <img src="images/Shinyapp2.png?raw=true"/>
 
 [First Shiny Dashboard ever developed as a school project!🙂](https://rasiimwe.shinyapps.io/BCL-app/)
-
+<img src="images/shiny4.png?raw=true"/>
 
 ---
 
