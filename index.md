@@ -16,7 +16,8 @@
 
 ---
 
-[Project 4: Shiny Apps and Dashboards](http://example.com/)
+Project 4: Shiny Apps and Dashboards
+
 App 1 is published in my [thesis](https://open.library.ubc.ca/media/stream/pdf/24/1.0377717/4)
 <img src="images/Shinyapp1.png?raw=true"/>
 
