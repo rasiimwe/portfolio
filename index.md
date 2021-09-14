@@ -21,10 +21,13 @@
 
 
 
-- [Project 5: Genotyping](http://example.com/)
-- [Project 6: Working with DNA methylation data](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Project 5: DNA methylation and Genotyping Data Analyses](http://example.com/)
+<img src="images/DNAm.png?raw=true"/>
+
+### Publications
+- Asiimwe, R. (2019). [Database-driven whole genome profiling for stratifying Triple Negative Breast Cancers (TNBC)](https://open.library.ubc.ca/collections/ubctheses/24/items/1.0377717) (T). University of British Columbia. Retrieved from https://open.library.ubc.ca/collections/ubctheses/24/items/1.0377717
+- Konwar, C., Asiimwe, R., Inkster, M, A., Merrill, S., Negri, L, G., Aristizabal, J, Ma., Rider, C., MacIsaac, L, J., Carlsten, C., Kobor, S, M. [Risk-focused differences in molecular processes implicated in SARS-CoV-2 infection: Corollaries in DNA methylation and gene expression](https://assets.researchsquare.com/files/rs-764250/v1_covered.pdf?c=1628604236). Genome Medicine (Under review)
+- Asiimwe, R., Lam, S., Leung, S., Wang, S., Wan, R., Tinker A., McAlpine, N, J., Woo, M., Huntsman, D., Talhouk, A.  From biobank and data silos into a data commons: convergence to support translational medicine. Journal of Translational Medicine (Under review) 
 
 ---
 
