@@ -1,26 +1,15 @@
 title: Rebecca Asiimwe (Becky) # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
+  <br><br>
+  I am a Bioinformatician and Data Scientist with over 15 years of extensive experience in Computing, including 5 years of experience in big and complex data analytics, management and visualization. My abilities as a Data Scientist are rooted in my Master of Science in Information Technology and  Master of Science in Bioinformatics from the University of British Columbia plus a wealth of experience amassed over the years from various projects led and conducted. 
   <br>
-  I am a Bioinformatician and Data Science professional with over 15 years of extensive experience in Computing, including 5 years of experience 
-  in big and complex data analytics, management and visualization. I am proficient in data processing, modeling, analysis, visualization, and 
-  building innovative data-driven tools and systems to solve complex problems in diverse domains. I am also keen at leveraging cutting-edge technologies to 
-  support the elucidation and discovery of hidden patterns, and unknown correlations in big data, towards translating business requirements into substantial deliverables.
-  
-  I’m interested in developing computational tools and applying statistical methods, and cutting-edge technologies 
-  (including machine learning and artificial intelligence) for integrating, managing and analyzing big and high-dimensional 
-  data to unravel true associations and data. 
-  I am excited by big, complex and messy data that ends up into beautiful and meaningful visualizations that help 
-  us derive actionable insights and new hypotheses from data.
-  
-  
-  <br><br>
-  I have experience in the analysis of high-throughput next-generation sequencing (NGS) data, Standard NGS bioinformatics toolsets, 
-  High-Performance Computing Systems, Shell Scripting, R and R Studio, Python, Machine Learning, Dash and Plotly, 
-  C++, Java, GitHub, Git version control, and Database Development and management. 
-  <br><br>
+  I am keen at developing computational tools, applying statistical methods and leveraging cutting-edge technologies (including machine learning and artificial intelligence) for integrating, managing and analyzing big and high-dimensional data to support the elucidation and discovery of hidden patterns, and unknown correlations in big data, towards translating business requirements into substantial deliverables.
+  <br>
+  Experienced in: The analysis of high-dimensional and high-throughput data including next-generation sequencing (NGS) data, data processing, modeling, analysis, visualization, and building innovative data-driven tools and systems to solve complex problems in diverse domains. Standard NGS bioinformatics toolsets, High-Performance Computing Systems, Shell Scripting, R and R Studio, Python, Machine Learning, Dash and Plotly, GitHub, Git version control, PLINK, GenomeStudio and Database Development and management.
+  <br>
   <a href="https://github.com/rasiimwe">View My GitHub Profile</a> 
-  <br><br>
+  <br>
   <a href="https://www.linkedin.com/in/asiimwe-rebecca-1906ab13/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
