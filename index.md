@@ -7,7 +7,7 @@
 <img src="images/TNBC_project.png?raw=true"/>
 
 ---
-[Project 2: Understanding temporal changes in different tissues after SIV infection](https://github.com/rasiimwe/SIV_Project)
+[Project 2: Understanding temporal changes in different tissues after SIV infection](https://github.com/rasiimwe/Galaxy_Transcriptomics)
 <img src="images/HIV_project.png?raw=true"/>
 
 ---
