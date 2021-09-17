@@ -3,9 +3,9 @@
 ---
 ## Sample Projects:
 
-#### [Project 1: Whole genome profiling to derive insights into the underpinnings of triple negative breast cancer and its treatment](https://open.library.ubc.ca/media/stream/pdf/24/1.0377717/4)
+#### [Project 1: Whole genome profiling for stratifying and deriving insights into the underpinnings and treatment of triple negative breast cancer](https://open.library.ubc.ca/media/stream/pdf/24/1.0377717/4)
 
-This research project was aimed at developing, optimizing and utilizing a database-driven approach to integrate, store, query, statistically analyze and visualize largescale whole genome profiling data from tumors of breast cancer patients and to support inference of patterns of mutations and genomic events underpinning a patient’s disease while providing an in-depth understanding and elucidation of the landscape of mutations occurring in patient genomes that may reflect specific mutational processes as targetable vulnerabilities in treatment of human cancers - please see publication for detailed methods. 
+This research project was aimed at developing, optimizing and utilizing a database-driven approach to integrate, store, query, statistically analyze and visualize large-scale whole genome profiling data from tumors of breast cancer patients and to support inference of patterns of mutations and genomic events underpinning a patient’s disease while providing an in-depth understanding and elucidation of the landscape of mutations occurring in patient genomes that may reflect specific mutational processes as targetable vulnerabilities in treatment of human cancers - please see publication for detailed methods. 
 
 [<img src="images/TNBC_project.png?raw=true"/>](https://open.library.ubc.ca/media/stream/pdf/24/1.0377717/4)
 
