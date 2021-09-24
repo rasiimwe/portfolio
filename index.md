@@ -37,7 +37,7 @@ Below is another tool that is under development and will soon be published along
 
 <img src="images/Shinyapp2.png?raw=true"/>
 
-[Simpe Shiny dashboard developed for training purposes](https://rasiimwe.shinyapps.io/NHS_A_and_E_Example_App/)
+[This is an elementary Dashboard that was developed for training purposes. It utilises a subset of the NHS England A&E (Accident and Emergency) dataset and shows the weekly and monthly attendances and emergency admissions in a specified period for all A&E types.](https://rasiimwe.shinyapps.io/NHS_A_and_E_Example_App/)
 
 [<img src="images/shiny4.png?raw=true"/>](https://rasiimwe.shinyapps.io/NHS_A_and_E_Example_App/)
 
