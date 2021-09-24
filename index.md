@@ -1,4 +1,4 @@
-# Projects and Research Portfolio
+# Portfolio
 
 ---
 ## Sample Projects:
