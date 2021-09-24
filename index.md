@@ -1,4 +1,4 @@
-# Portfolio
+# Projects and Research Portfolio
 
 ---
 ## Sample Projects:
@@ -37,9 +37,9 @@ Below is another tool that is under development and will soon be published along
 
 <img src="images/Shinyapp2.png?raw=true"/>
 
-[This was my first Shiny dashboard ever developed for a school project!🙂](https://rasiimwe.shinyapps.io/BCL-app/)
+[Simpe Shiny dashboard developed for training purposes](https://rasiimwe.shinyapps.io/NHS_A_and_E_Example_App/)
 
-[<img src="images/shiny4.png?raw=true"/>](https://rasiimwe.shinyapps.io/BCL-app/)
+[<img src="images/shiny4.png?raw=true"/>](https://rasiimwe.shinyapps.io/NHS_A_and_E_Example_App/)
 
 ---
 
