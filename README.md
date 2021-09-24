@@ -1,2 +1,2 @@
-## Welcome to my portfoloia:https://rasiimwe.github.io/portfolio/
+## Welcome to my portfolio:https://rasiimwe.github.io/portfolio/
 
