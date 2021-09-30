@@ -28,13 +28,16 @@ Experience with database design, development, optimization and administration. I
 #### [Project 4: DNA methylation and Genotyping Data Analyses](https://assets.researchsquare.com/files/rs-764250/v1_covered.pdf?c=1628604236)
 
 Provided below is an overview of extracts from developed data preprocessing pipelines and up/downstream analyses on various projects (some ongoing). The images shown are extracts from either up/downstream project data analyses such as those conducted in this [manuscript](https://assets.researchsquare.com/files/rs-764250/v1_covered.pdf?c=1628604236). Similar projects I have conducted in this domain (DNA methylation and genotyping) follow similar pipelines and analyses - some soon to be published and released into the public domain as well. 
+
 <img src="images/DNAm.png?raw=true"/>
 
 ---
 
 #### [Project 5: Using Machine Learning to Predict Breast Cancer](https://github.com/rasiimwe/Code_Examples/blob/main/Predicting_Breast_Cancer_Using_Machine_Learning.ipynb)
 
-This project utilizes the [Breast Cancer Wisconsin (Diagnostic) Data Set](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29) for predictive analysis in breast cancer. Key tools largely used include: Jupyter Notebook, Python - numpy, pandas, matplotlib, plotly, seaborn and scikit-learn and plotly to run and compare Logistic Regression, Random Forest, KNeighbors, SVC, DecisionTree, GradientBoosting, AdaBoost, and XGB classification models.[<img src="images/Breast_Cancer_Prediction.png?raw=true"/>](https://github.com/rasiimwe/Code_Examples/blob/main/Predicting_Breast_Cancer_Using_Machine_Learning.ipynb)
+This project utilizes the [Breast Cancer Wisconsin (Diagnostic) Data Set](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29) for predictive analysis in breast cancer. Key tools largely used include: Jupyter Notebook, Python - numpy, pandas, matplotlib, plotly, seaborn and scikit-learn and plotly to run and compare Logistic Regression, Random Forest, KNeighbors, SVC, DecisionTree, GradientBoosting, AdaBoost, and XGB classification models.
+
+[<img src="images/Breast_Cancer_Prediction.png?raw=true"/>](https://github.com/rasiimwe/Code_Examples/blob/main/Predicting_Breast_Cancer_Using_Machine_Learning.ipynb)
 
 
 
