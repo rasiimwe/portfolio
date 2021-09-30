@@ -25,7 +25,20 @@ Experience with database design, development, optimization and administration. I
 
 ---
 
-#### Project 4: Shiny Apps and Dashboards
+#### [Project 4: DNA methylation and Genotyping Data Analyses](https://assets.researchsquare.com/files/rs-764250/v1_covered.pdf?c=1628604236)
+
+Provided below is an overview of extracts from developed data preprocessing pipelines and up/downstream analyses on various projects (some ongoing). The images shown are extracts from either up/downstream project data analyses such as those conducted in this [manuscript](https://assets.researchsquare.com/files/rs-764250/v1_covered.pdf?c=1628604236). Similar projects I have conducted in this domain (DNA methylation and genotyping) follow similar pipelines and analyses - some soon to be published and released into the public domain as well. 
+<img src="images/DNAm.png?raw=true"/>
+
+---
+
+#### [Project 5: Breast Cancer Prediction](https://assets.researchsquare.com/files/rs-764250/v1_covered.pdf?c=1628604236)
+
+This project utilizes the [Breast Cancer Wisconsin (Diagnostic) Data Set](https://github.com/rasiimwe/Code_Examples/blob/main/Predicting_Breast_Cancer_Using_Machine_Learning.ipynb) for predictive analysis in breast cancer. Key tools largely used include: Jupyter Notebook, Python - numpy, pandas, matplotlib, plotly, seaborn and scikit-learn and plotly. Concepts utilised were learned and some adopted from fellow Kagglers. 
+
+---
+
+#### Project 6: Shiny Apps and Dashboards
 
 I have developed a number of Shiny-based tools, apps and/dashboards, most of which are internal to the institutions I have worked with. Below are some of the few examples that are public. I have also had some experience conducting data analysis and visualizations using Dash (Python).
 
@@ -41,12 +54,6 @@ Below is another tool that is under development and will soon be published along
 
 [<img src="images/shiny4.png?raw=true"/>](https://rasiimwe.shinyapps.io/NHS_A_and_E_Example_App/)
 
----
-
-#### [Project 5: DNA methylation and Genotyping Data Analyses](https://assets.researchsquare.com/files/rs-764250/v1_covered.pdf?c=1628604236)
-
-Provided below is an overview of extracts from developed data preprocessing pipelines and up/downstream analyses on various projects (some ongoing). The images shown are extracts from either up/downstream project data analyses such as those conducted in this [manuscript](https://assets.researchsquare.com/files/rs-764250/v1_covered.pdf?c=1628604236). Similar projects I have conducted in this domain (DNA methylation and genotyping) follow similar pipelines and analyses - some soon to be published and released into the public domain as well. 
-<img src="images/DNAm.png?raw=true"/>
 
 ---
 
