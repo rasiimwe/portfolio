@@ -34,7 +34,9 @@ Provided below is an overview of extracts from developed data preprocessing pipe
 
 #### [Project 5: Breast Cancer Prediction](https://assets.researchsquare.com/files/rs-764250/v1_covered.pdf?c=1628604236)
 
-This project utilizes the [Breast Cancer Wisconsin (Diagnostic) Data Set](https://github.com/rasiimwe/Code_Examples/blob/main/Predicting_Breast_Cancer_Using_Machine_Learning.ipynb) for predictive analysis in breast cancer. Key tools largely used include: Jupyter Notebook, Python - numpy, pandas, matplotlib, plotly, seaborn and scikit-learn and plotly. Concepts utilised were learned and some adopted from fellow Kagglers. 
+This project utilizes the [Breast Cancer Wisconsin (Diagnostic) Data Set](https://github.com/rasiimwe/Code_Examples/blob/main/Predicting_Breast_Cancer_Using_Machine_Learning.ipynb) for predictive analysis in breast cancer. Key tools largely used include: Jupyter Notebook, Python - numpy, pandas, matplotlib, plotly, seaborn and scikit-learn and plotly and running Logistic Regression, Random Forest, KNeighbors,SVC, DecisionTree, GradientBoosting,AdaBoost, and XGB classification models. Concepts utilised were learned and some adopted from fellow Kagglers. [<img src="images/Breast_Cancer_Prediction.png?raw=true"/>](https://github.com/rasiimwe/research_and_project_portfolio/blob/master/images/Breast_Cancer_Prediction.png)
+
+
 
 ---
 
