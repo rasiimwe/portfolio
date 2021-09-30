@@ -50,7 +50,7 @@ Below is another tool that is under development and will soon be published along
 
 <img src="images/Shinyapp2.png?raw=true"/>
 
-[Developed for training purposes, this is an elementary dashboard that utilises a subset of the NHS England A&E (Accident and Emergency) dataset, and shows the weekly and monthly attendances and emergency admissions in a specified period for all A&E types.](https://rasiimwe.shinyapps.io/NHS_A_and_E_Example_App/)
+Developed for training purposes, this is an elementary [dashboard](https://rasiimwe.shinyapps.io/NHS_A_and_E_Example_App/) that utilises a subset of the NHS England A&E (Accident and Emergency) dataset, and shows the weekly and monthly attendances and emergency admissions in a specified period for all A&E types.
 
 [<img src="images/shiny4.png?raw=true"/>](https://rasiimwe.shinyapps.io/NHS_A_and_E_Example_App/)
 
