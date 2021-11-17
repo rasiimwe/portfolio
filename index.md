@@ -51,7 +51,7 @@ Not accessible publicly, but this app can be viewed in my [thesis (pages 75 - 87
 
 [<img src="images/Shinyapp1.png?raw=true"/>](https://open.library.ubc.ca/media/stream/pdf/24/1.0377717/4)
 
-Below is another tool that is under development and will soon be published along with the manuscript it complements:
+Below is another tool that is under development.  It compares DNA methylation patterns in immune cell types between cord and adult blood:
 
 <img src="images/Shinyapp2.png?raw=true"/>
 
