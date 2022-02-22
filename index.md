@@ -27,7 +27,7 @@ Experience with database design, development, optimization and administration. I
 
 #### [Project 4: DNA methylation and Genotyping Data Analyses](https://assets.researchsquare.com/files/rs-764250/v1_covered.pdf?c=1628604236)
 
-Provided below is an overview of extracts from developed data preprocessing pipelines and up/downstream analyses on various projects (some ongoing). The images shown are extracts from either up/downstream project data analyses such as those conducted in this [manuscript](https://assets.researchsquare.com/files/rs-764250/v1_covered.pdf?c=1628604236). Similar projects I have conducted in this domain (DNA methylation and genotyping) follow similar pipelines and analyses - some soon to be published and released into the public domain as well. 
+Provided below is an overview of extracts from developed data preprocessing pipelines and up/downstream analyses on various projects (some ongoing). The images shown are extracts from either up/downstream project data analyses such as those conducted in this [manuscript](https://epigeneticsandchromatin.biomedcentral.com/articles/10.1186/s13072-021-00428-1). Similar projects I have conducted in this domain (DNA methylation and genotyping) follow similar pipelines and analyses - some soon to be published and released into the public domain as well. 
 
 <img src="images/DNAm.png?raw=true"/>
 
