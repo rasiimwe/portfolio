@@ -55,10 +55,11 @@ Below is another tool that is under development.  It compares DNA methylation pa
 
 <img src="images/Shinyapp2.png?raw=true"/>
 
+<!--- 
 Developed for training purposes, this is an elementary [dashboard](https://rasiimwe.shinyapps.io/NHS_A_and_E_Example_App/) that utilises a subset of the NHS England A&E (Accident and Emergency) dataset, and shows the weekly and monthly attendances and emergency admissions in a specified period for all A&E types.
 
 [<img src="images/shiny4.png?raw=true"/>](https://rasiimwe.shinyapps.io/NHS_A_and_E_Example_App/)
-
+-->
 
 ---
 
