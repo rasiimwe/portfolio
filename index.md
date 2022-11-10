@@ -78,11 +78,7 @@ Developed for training purposes, this is an elementary [dashboard](https://rasii
 - Asiimwe, R. (2019). [Database-driven whole genome profiling for stratifying Triple Negative Breast Cancers (TNBC)](https://open.library.ubc.ca/media/stream/pdf/24/1.0377717/4) (T). University of British Columbia. Retrieved from https://open.library.ubc.ca/media/stream/pdf/24/1.0377717/4
 - Asiimwe, R., Lam, S., Leung, S., Wang, S., Wan, R., Tinker A., McAlpine, N, J., Woo, M., Huntsman, D., Talhouk, A.  [From biobank and data silos into a data commons: convergence to support translational medicine](https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-021-03147-z). *Journal of Translational Medicine* 
 - Konwar, C., Asiimwe, R., Inkster, M, A., Merrill, S., Negri, L, G., Aristizabal, J, Ma., Rider, C., MacIsaac, L, J., Carlsten, C., Kobor, S, M. [Risk-focused differences in molecular processes implicated in SARS-CoV-2 infection: Corollaries in DNA methylation and gene expression](https://epigeneticsandchromatin.biomedcentral.com/articles/10.1186/s13072-021-00428-1). *Epigenetics & Chromatin* 
-- Asiimwe, R., Konwar, C., Merrill, S., MacIsaac, L, J., Katia, R., Crowell, E, S., Kobor, S, M., Conradt, E. Placental DNA methylation changes associated with opioid use during pregnancy. (In preparation for submission) 
-- Dobin 
-- pig-human
-- uterine
-- uterin atlas
+- Asiimwe, R., Konwar, C., Merrill, S., MacIsaac, L, J., Katia, R., Crowell, E, S., Kobor, S, M., Conradt, E. Placental DNA methylation changes associated with opioid use during pregnancy. (In preparation for
 
 
 ---
