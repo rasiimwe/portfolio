@@ -55,7 +55,7 @@ Below is another tool that is under development.  It compares DNA methylation pa
 
 <img src="images/Shinyapp2.png?raw=true"/>
 
-7. scRNA-Seq
+#### scRNA-Seq Projects
 
 <img src="images/scRNA-Seq1.pdf?raw=true"/>
 <!---<img src="https://github.com/rasiimwe/portfolio/blob/master/images/scRNA-Seq1.pdf">-->
