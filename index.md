@@ -13,6 +13,19 @@ This research project was aimed at developing, optimizing and utilizing a databa
 
 #### scRNA-Seq Projects
 
+Single-cell transcriptomics (scRNA-Seq)
+Over the past year I have had the privilege of conducting single‐cell RNA sequencing analyses of millions of cells from over 100 libraries and experiments including single nuclear RNA seq analyses. Transcriptomic profiling of complex tissues identifies known and novel features of the transcriptome and provides insights into tissue cell type diversity and dynamics that have a great impact on disease diagnostics, prevention, and drug discovery based on measures of gene and transcript abundance.
+
+I have also conducted analyses of CITE-seq data taking bimodal and simultaneous transcriptome and cell surface protein epitope measurements while leveraging available antibodies on a single cell level. Studying cells concurrently at transcriptomic and proteomic levels can offer unprecedented insights into new cell types, disease states, or other conditions.
+
+I have also conduced single cell ATAC-Seq analyses to study cell type-specific chromatin accessibility in tissue samples containing heterogeneous cellular populations for the identification of transcription factors that are active in the phenotype or conditions being investigated. Transcription factor binding sites and positions of nucleosomes can also be identified from the analysis of ATAC-Seq data, potentially allowing important genetic pathways in the samples to be elucidated.
+
+Besides sc/sn-RNA-, CITE- and ATAC-seq, I have worked with spatial transcriptomics to characterize transcriptional patterning and regulation in tissues. I have also worked with [Cell2location]( https://www.nature.com/articles/s41587-021-01139-4) to map single-cell RNA-seq (scRNA-seq) profiles with spatial transcriptomic data in a given tissue.
+I have also worked with tools such as [soupX]( https://academic.oup.com/gigascience/article/9/12/giaa151/6049831) to remove ambient RNA, scrublet to remove doublets, monocle for single cell trajectory inference and souporcell and [demuxlet]( https://www.cell.com/cell-systems/fulltext/S2405-4712(18)30474-5?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2405471218304745%3Fshowall%3Dtrue) for sample identity deconvolution. 
+
+All analyses are conducted using R and Python using respective packages to accomplish all necessary tasks.
+
+
 <img src="images/scRNA-Seq1.pdf?raw=true"/>
 <!---<img src="https://github.com/rasiimwe/portfolio/blob/master/images/scRNA-Seq1.pdf">-->
 <!--- (https://github.com/rasiimwe/portfolio/blob/master/images/scRNA-Seq1.pdf)-->
