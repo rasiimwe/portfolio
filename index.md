@@ -28,7 +28,7 @@ This research project was aimed at developing, optimizing and utilizing a databa
 
 Allele specific expression (ASE) refers to the preferential expression of one allele over the other in a diploid genome. In humans, the widespread allelic variation at both gene and single nucleotide level between individuals is commonly associated with complex traits. ASE analysis, quantifies the relative expression of two alleles and when integrated with expression quantitative trait locus (eQTL) analysis is a powerful tool for identifying biologically meaningful regulatory signals such as imprinting and cis-regulated gene expression variations that underlie phenotypic differences among individuals. RNA-seq can be used to measure allele-specific expression (ASE) by assigning sequence reads to individual alleles; however, this analysis remains limited by mapping bias, where sequence reads are aligned to a conventional linear reference genome with each position represented only by the reference/most abundant allele. Together with Dr. Alexander Dobin, we are working on improving STAR, a widely adopted read alignment tool to reduce reference bias. 
 
-<img src="images/Alignment_project.pdf?raw=true"  alt="drawing" style="width:200px;"/>
+<img src="images/Alignment_project.pdf?raw=true" style="width:200px;"/>
 
 <!--- <img src="drawing.jpg" alt="drawing" style="width:200px;"/> -->
 
