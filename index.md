@@ -22,7 +22,7 @@ I have also conduced single cell ATAC-Seq analyses to study cell type-specific c
 Besides sc/sn-RNA-, CITE- and ATAC-seq, I have worked with spatial transcriptomics to characterize transcriptional patterning and regulation in tissues. I have also worked with [Cell2location]( https://www.nature.com/articles/s41587-021-01139-4) to map single-cell RNA-seq (scRNA-seq) profiles to spatial transcriptomic data.
 I have also worked with tools such as [soupX]( https://academic.oup.com/gigascience/article/9/12/giaa151/6049831) to remove ambient RNA, [scrublet](https://www.cell.com/cell-systems/fulltext/S2405-4712(18)30474-5?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2405471218304745%3Fshowall%3Dtrue) to remove doublets, [monocle](http://cole-trapnell-lab.github.io/monocle-release/) for single cell trajectory inference and [souporcell](https://www.nature.com/articles/s41592-020-0820-1) and [demuxlet](https://www.nature.com/articles/nbt.4042) for sample identity deconvolution. 
 
-All analyses are conducted using R and Python using respective packages to accomplish all necessary tasks.
+All analyses are conducted using R and Python using respective packages to accomplish all necessary tasks (Images shown here are from works done and in preparation for publication).
 
 
 <img src="images/scRNA-Seq1.pdf?raw=true"/>
