@@ -14,6 +14,9 @@ This research project was aimed at developing, optimizing and utilizing a databa
 #### {\color{red}Single-cell transcriptomics (scRNA-Seq) Projects}
 #### Single-cell transcriptomics (scRNA-Seq) Project \textcolor{red}
 
+<span style="color: red;">Single-cell transcriptomics (scRNA-Seq) Project</span>
+
+
 Over the past year I have had the privilege of conducting single‐cell RNA sequencing analyses of millions of cells from over 100 libraries and experiments including single nuclear RNA seq (snRNA-Seq) analyses. Transcriptomic profiling of complex tissues identifies known and novel features of the transcriptome and provides insights into tissue cell type diversity and dynamics that have a great impact on disease diagnostics, prevention, and drug discovery, all based on measures of gene and transcript abundance.
 
 I have also conducted analyses of CITE-seq data based on transcriptome and cell surface protein epitope measurements while leveraging available antibodies on a single cell level. Studying cells concurrently at transcriptomic and proteomic levels can offer unprecedented insights into new cell types, disease states, or other conditions.
