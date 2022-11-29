@@ -12,7 +12,7 @@ This research project was aimed at developing, optimizing and utilizing a databa
 ---
 
 #### {\color{red}Single-cell transcriptomics (scRNA-Seq) Projects}
-
+#### \textcolor{red}{Single-cell transcriptomics (scRNA-Seq) Project}
 
 Over the past year I have had the privilege of conducting single‐cell RNA sequencing analyses of millions of cells from over 100 libraries and experiments including single nuclear RNA seq (snRNA-Seq) analyses. Transcriptomic profiling of complex tissues identifies known and novel features of the transcriptome and provides insights into tissue cell type diversity and dynamics that have a great impact on disease diagnostics, prevention, and drug discovery, all based on measures of gene and transcript abundance.
 
