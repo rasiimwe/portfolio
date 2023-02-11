@@ -25,14 +25,14 @@ I have also worked with tools such as [soupX]( https://academic.oup.com/gigascie
 All analyses are conducted using R and Python using respective packages to accomplish all necessary tasks (Images shown here are from works done and in preparation for publication).
 
 
-<!--- <img src="images/scRNA-Seq1.pdf?raw=true"/>
-<img src="https://github.com/rasiimwe/portfolio/blob/master/images/scRNA-Seq1.pdf"> --->
-(https://github.com/rasiimwe/portfolio/blob/master/images/scRNA-Seq1.pdf)
+<!--- <img src="images/scRNA-Seq1.pdf?raw=true"/> --->
+<img src="https://github.com/rasiimwe/portfolio/blob/master/images/scRNA-Seq1.pdf"> 
+<!--- (https://github.com/rasiimwe/portfolio/blob/master/images/scRNA-Seq1.pdf)--->
 
-<!--- <img src="images/scRNA-Seq2.pdf?raw=true"/>
-<img src="https://github.com/rasiimwe/portfolio/blob/master/images/scRNA-Seq2.pdf"> --->
+<!--- <img src="images/scRNA-Seq2.pdf?raw=true"/> --->
+<img src="https://github.com/rasiimwe/portfolio/blob/master/images/scRNA-Seq2.pdf"> 
 
-(https://github.com/rasiimwe/portfolio/blob/master/images/scRNA-Seq2.pdf)
+<!--- (https://github.com/rasiimwe/portfolio/blob/master/images/scRNA-Seq2.pdf) --->
 
 
 ---
