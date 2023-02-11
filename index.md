@@ -25,12 +25,12 @@ I have also worked with tools such as [soupX]( https://academic.oup.com/gigascie
 All analyses are conducted using R and Python using respective packages to accomplish all necessary tasks (Images shown here are from works done and in preparation for publication).
 
 
-<!--- <img src="images/scRNA-Seq1.pdf?raw=true"/> --->
-<img src="https://github.com/rasiimwe/portfolio/blob/master/images/scRNA-Seq1.pdf"> 
+<img src="images/scRNA-Seq1.pdf?raw=true"/> 
+<!---  <img src="https://github.com/rasiimwe/portfolio/blob/master/images/scRNA-Seq1.pdf"> --->
 <!--- (https://github.com/rasiimwe/portfolio/blob/master/images/scRNA-Seq1.pdf)--->
 
-<!--- <img src="images/scRNA-Seq2.pdf?raw=true"/> --->
-<img src="https://github.com/rasiimwe/portfolio/blob/master/images/scRNA-Seq2.pdf"> 
+<img src="images/scRNA-Seq2.pdf?raw=true"/>
+<!---  <img src="https://github.com/rasiimwe/portfolio/blob/master/images/scRNA-Seq2.pdf"> --->
 
 <!--- (https://github.com/rasiimwe/portfolio/blob/master/images/scRNA-Seq2.pdf) --->
 
@@ -91,11 +91,11 @@ Below is another tool that is under development.  It compares DNA methylation pa
 
 <img src="images/Shinyapp2.png?raw=true"/>
 
-<!--- 
+
 Developed for training purposes, this is an elementary [dashboard](https://rasiimwe.shinyapps.io/NHS_A_and_E_Example_App/) that utilises a subset of the NHS England A&E (Accident and Emergency) dataset, and shows the weekly and monthly attendances and emergency admissions in a specified period for all A&E types.
 
 [<img src="images/shiny4.png?raw=true"/>](https://rasiimwe.shinyapps.io/NHS_A_and_E_Example_App/)
--->
+
 
 ---
 
