@@ -5,7 +5,7 @@
 
 #### [Whole Genome Profiling for Stratifying Triple Negative Breast Cancers (TNBC): Deriving insights into the underpinnings and treatment of TNBC](https://open.library.ubc.ca/media/stream/pdf/24/1.0377717/4)
 
-The aim of this research project was to develop, optimize and utilize a database-driven approach to integrate, store, query, statistically analyze and visualize large-scale whole genome profiling data from tumors of breast cancer patients to support inferences of the genomic events underpinning a patient’s disease while providing an in-depth understanding and elucidation of the landscape of mutations occurring in patient genomes that may reflect specific mutational processes as targetable vulnerabilities in the treatment of this, and other human cancers. Please see [publication](https://open.library.ubc.ca/media/stream/pdf/24/1.0377717/4) for details on methods applied for this project. 
+The aim of this research project was to develop, optimize and utilize a database-driven approach to integrate, store, query, statistically analyze and visualize large-scale whole genome profiling data from tumors of breast cancer patients. Overall, the study was conducted to help us draw inferences on the genomic events underpinning a patient’s disease while providing an in-depth understanding and elucidation of the landscape of mutations occurring in patient genomes that may reflect specific mutational processes as targetable vulnerabilities in the treatment of this, and other human cancers. Please see [publication](https://open.library.ubc.ca/media/stream/pdf/24/1.0377717/4) for details on this project including methods applied. 
 
 [<img src="images/TNBC_project.png?raw=true"/>](https://open.library.ubc.ca/media/stream/pdf/24/1.0377717/4)
 
