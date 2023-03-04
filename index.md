@@ -76,7 +76,6 @@ This project utilizes the [Breast Cancer Wisconsin (Diagnostic) Data Set](https:
 [<img src="images/Breast_Cancer_Prediction.png?raw=true"/>](https://github.com/rasiimwe/Code_Examples/blob/main/Predicting_Breast_Cancer_Using_Machine_Learning.ipynb)
 
 
-
 ---
 
 #### 8. Shiny Apps and Dashboards
