@@ -1,7 +1,8 @@
-# Portfolio
+# Sample Projects:
+<-- # Portfolio -->
 
 ---
-## Sample Projects:
+<-- ## Sample Projects: -->
 
 #### 1. [Whole Genome Profiling for Stratifying Triple Negative Breast Cancers (TNBC): Deriving insights into the underpinnings and treatment of TNBC](https://open.library.ubc.ca/media/stream/pdf/24/1.0377717/4)
 
