@@ -87,7 +87,7 @@ Not accessible publicly, but this app can be viewed in my [thesis (pages 75 - 87
 
 [<img src="images/Shinyapp1.png?raw=true"/>](https://open.library.ubc.ca/media/stream/pdf/24/1.0377717/4)
 
-Below is another tool that is under development.  It compares DNA methylation patterns in immune cell types between cord and adult blood:
+Below is another tool [CoADD](https://rasiimwe.shinyapps.io/CoADD/) that is under development.  It compares DNA methylation patterns in immune cell types between cord and adult blood:
 
 <img src="images/Shinyapp2.png?raw=true"/>
 
@@ -103,7 +103,8 @@ Developed for training purposes, this is an elementary [dashboard](https://rasii
 - Asiimwe, R. (2019). [Database-driven whole genome profiling for stratifying Triple Negative Breast Cancers (TNBC)](https://open.library.ubc.ca/media/stream/pdf/24/1.0377717/4) (T). University of British Columbia. Retrieved from https://open.library.ubc.ca/media/stream/pdf/24/1.0377717/4
 - Asiimwe, R., Lam, S., Leung, S., Wang, S., Wan, R., Tinker A., McAlpine, N, J., Woo, M., Huntsman, D., Talhouk, A.  [From biobank and data silos into a data commons: convergence to support translational medicine](https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-021-03147-z). *Journal of Translational Medicine* 
 - Konwar, C., Asiimwe, R., Inkster, M, A., Merrill, S., Negri, L, G., Aristizabal, J, Ma., Rider, C., MacIsaac, L, J., Carlsten, C., Kobor, S, M. [Risk-focused differences in molecular processes implicated in SARS-CoV-2 infection: Corollaries in DNA methylation and gene expression](https://epigeneticsandchromatin.biomedcentral.com/articles/10.1186/s13072-021-00428-1). *Epigenetics & Chromatin* 
-- Matthew D. Cheung\*, Rebecca Asiimwe\*, Elise N. Erman, Christopher F. Fucile, Shanrun Liu, Chiao-Wang Sun, Vidya Sagar Hanumanthu, Harish C. Pal4, Emma D. Wright, Gelare Ghajar-Rahimi, Daniel Epstein, Babak J. Orandi, Vineeta Kumar, Douglas J. Anderson, Morgan E.Greene, Markayla Bell, Stefani Yates, Kyle H. Moore, Jennifer LaFontaine, John T. Killian, Gavin Baker, Jackson Perry, Rhiannon Reed, Shawn C. Little, Alexander F. Rosenberg, James F. George, Jayme E. Locke, and Paige M. Porrett\*\*, [Spatiotemporal immune atlas of the first clinical-grade, gene-edited pig-to-human kidney xenotransplant](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9882594/), *Nature Communications* (2023), (Manuscript under consideration) 
+- Matthew D. Cheung\*, Rebecca Asiimwe\*, Elise N. Erman, Christopher F. Fucile, Shanrun Liu, Chiao-Wang Sun, Vidya Sagar Hanumanthu, Harish C. Pal4, Emma D. Wright, Gelare Ghajar-Rahimi, Daniel Epstein, Babak J. Orandi, Vineeta Kumar, Douglas J. Anderson, Morgan E.Greene, Markayla Bell, Stefani Yates, Kyle H. Moore, Jennifer LaFontaine, John T. Killian, Gavin Baker, Jackson Perry, Rhiannon Reed, Shawn C. Little, Alexander F. Rosenberg, James F. George, Jayme E. Locke, and Paige M. Porrett\*\*, [Spatiotemporal immune atlas of the first clinical-grade, gene-edited pig-to-human kidney xenotransplant](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9882594/), *Nature Communications* (2023), (Manuscript under consideration)
+- Asiimwe, R., Alexader, D., Performance Benchmarks: STAR ultrafast universal RNAseq aligner with WASP reference bias correction. (In preparation for submission)   
 <!-- - Asiimwe, R., Konwar, C., Merrill, S., MacIsaac, L, J., Katia, R., Crowell, E, S., Kobor, S, M., Conradt, E. Placental DNA methylation changes associated with opioid use during pregnancy. (In preparation for submission) -->
 
 ---
