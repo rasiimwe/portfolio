@@ -1,6 +1,6 @@
 <style>
   
-H1{color:MidnightBlue !important;}
+H1{color:SteelBlue !important;}
   
 </style>
   
