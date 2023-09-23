@@ -62,7 +62,7 @@ Malaria is an infectious and sometimes a fatal disease caused by plasmodium para
 
 The overall objective of this project is to build an automated and efficient computer vision model to detect malaria by distinguishing malaria parasitized red blood cells from uninfected red blood cells, and to classify which cells are parasitized - that is cells that have the Plasmodium parasite - and which are not (uninfected), in the midst of other cellular impurities. Key tools and packages used for this project: Python (Pandas, numpy, seaborn, cv2, matplotlib, scikit-learn, tensorflow, keras), Jupyter Notebook and Google Colab.
 
-
+<img src="images/Malaria_CNN.png?raw=true"/>
 
 
 ##### ii) Digit Prediction from images
@@ -70,6 +70,7 @@ One of the most interesting tasks in deep learning is to recognize objects in na
 The SVHN dataset contains over 600,000 labeled digits cropped from street-level photos. It is one of the most popular image recognition datasets. It has been used in neural networks created by Google to improve the map quality by automatically transcribing the address numbers from a patch of pixels. The transcribed number with a known street address helps pinpoint the location of the building it represents.
 Our objective is to predict the number depicted inside the image by using Artificial or Fully Connected Feed Forward Neural Networks and Convolutional Neural Networks. We will go through various models of each and finally select the one that is giving us the best performance. Key tools and packages used for this project: Python (Pandas, numpy, seaborn, cv2, matplotlib, scikit-learn, tensorflow, keras), Jupyter Notebook and Google Colab.
 
+<img src="images/Digit_Prediction_CNN.png?raw=true"/>
 
 
 ##### iii) [Using Machine Learning to Predict Breast Cancer](https://github.com/rasiimwe/Code_Examples/blob/main/Predicting_Breast_Cancer_Using_Machine_Learning.ipynb)
