@@ -1,7 +1,5 @@
 <style>
-  
 H1{color:SteelBlue !important;}
-  
 </style>
   
 # Portfolio
