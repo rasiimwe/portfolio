@@ -46,23 +46,9 @@ Allele specific expression (ASE) refers to the preferential expression of one al
 
 <!--- <img src="drawing.jpg" alt="drawing" style="width:200px;"/> -->
 
-
-#### 4. [Understanding tissue-specific temporal changes after SIV infection to guide HIV treatment](https://github.com/rasiimwe/Galaxy_Transcriptomics)
-
-Human immunodeficiency virus (HIV) has continued to be a public health issue on a global scale and over 35 million people have died due to the onset of acquired immunodeficiency syndrome (AIDS)-related diseases. Early diagnosis is crucial as it enables the control of infection via antiretroviral therapy in addition to reducing the risk of transmission, however, it is estimated that half of the patients with HIV worldwide are “late-presenters” because of the asymptomatic nature of the virus; a rationale for which more knowledge is needed to understand the early stages of HIV infection, and immune response. Simian immunodeficiency virus (SIV), a retrovirus infecting non-human primates, has symptoms and a viral life cycle similar to that of HIV. Phylogenetic analysis also shows that SIV and HIV are ancestrally related and are closely related in viral replication and propagation, making it a good model for understanding early development of infection. This project aimed at evaluating tissue-specific transcriptomic changes in the first ten days after SIV infection in rhesus monkeys. We leveraged various statistical methods such as fitting linear models, cluster analysis, PCA, gene enrichment and pathway analysis, using various CRAN/Bioconductor R packages, and found that significant transcriptomic changes occur as early as day 1 post infection throughout host tissues. This knowledge is crucial for development of treatment as well as vaccines and more effective post-exposure prophylaxis drugs. Please visit the [GitHub project repo](https://github.com/rasiimwe/Galaxy_Transcriptomics/blob/main/README.md) for more details.
-
-[<img src="images/HIV_project.png?raw=true"/>](https://github.com/rasiimwe/Galaxy_Transcriptomics/blob/main/Poster/Poster-FINAL.pdf)
-
----
-#### 5. [Database design, development and optimization](https://open.library.ubc.ca/media/stream/pdf/24/1.0377717/4)
-
-I have experience with database design, development, optimization and administration. I have worked with Microsoft Access, Oracle, MySQL and PostgreSQL Database Management Systems (DBMSs). 
-
-[<img src="images/Databases.png?raw=true"/>](https://open.library.ubc.ca/media/stream/pdf/24/1.0377717/4)
-
 ---
 
-#### 6. [DNA methylation and Genotyping Data Analyses](https://assets.researchsquare.com/files/rs-764250/v1_covered.pdf?c=1628604236)
+#### 4. [DNA methylation and Genotyping Data Analyses](https://assets.researchsquare.com/files/rs-764250/v1_covered.pdf?c=1628604236)
 
 Provided below is an overview of extracts from developed data preprocessing pipelines and up/downstream analyses on various projects (some ongoing). The images shown are extracts from either up/downstream data analyses such as those conducted in this [manuscript](https://epigeneticsandchromatin.biomedcentral.com/articles/10.1186/s13072-021-00428-1). Similar projects I have conducted in this domain (DNA methylation and genotyping) follow similar pipelines and analyses. <!--- - some soon to be published and released into the public domain as well. --->
 
@@ -70,12 +56,42 @@ Provided below is an overview of extracts from developed data preprocessing pipe
 
 ---
 
-#### 7. [Using Machine Learning to Predict Breast Cancer](https://github.com/rasiimwe/Code_Examples/blob/main/Predicting_Breast_Cancer_Using_Machine_Learning.ipynb)
+#### 5. Select Machine Learning and Deep Learning Projects
+##### i) Malarial Detection Using Deep Learning: A Convolutional Neural Networks (CNN) Approach
+Malaria is an infectious and sometimes a fatal disease caused by plasmodium parasites that are transmitted through mosquito bites from female anopheles mosquitoes. Based on World Health Organization reports, there were 228 million cases and 405,000 deaths in 2018 alone. Of these deaths, Africa represented 93% and 94% of the total cases and deaths respectively. More recently (2020), it was estimated that there were 241 million cases of malaria worldwide, of which 627,000 people died from the disease, most of whom were children from sub-Saharan African countries. Many deaths have been attributed to poor health care services and lack of early and effective screening for malaria. It is therefore key to have measures for early detection, diagnosis and treatment to reduce these high mortality rates and the malaria burden worldwide. Current efforts towards malaria detection often involve examining a drop of a patient’s blood under a microscope. The specimen, often spread out on a thin blood smear is stained with Giemsa to give the parasites a distinctive appearance which is used to distinguish healthy from infected cells. Despite its ability to aid malaria detection, this process is quite tedious as it requires manual counting of cells by a trained technician or pathologist. Accuracy could in part depend on the technicians or expatriates examining the slides. This may leave many cases to go undiagnosed including late diagnoses that could contribute to the global malaria burden. This problem is therefore important to solve to aid early and accurate detection of malaria and consequently contribute to reducing severe illness and deaths caused by malaria.
+
+The overall objective of this project is to build an automated and efficient computer vision model to detect malaria by distinguishing malaria parasitized red blood cells from uninfected red blood cells, and to classify which cells are parasitized - that is cells that have the Plasmodium parasite - and which are not (uninfected), in the midst of other cellular impurities. Key tools and packages used for this project: Python (Pandas, numpy, seaborn, cv2, matplotlib, scikit-learn, tensorflow, keras), Jupyter Notebook and Google Colab.
+
+
+
+
+##### ii) Digit Prediction from images
+One of the most interesting tasks in deep learning is to recognize objects in natural scenes. The ability to process visual information using machine learning algorithms can be very useful as demonstrated in various applications.
+The SVHN dataset contains over 600,000 labeled digits cropped from street-level photos. It is one of the most popular image recognition datasets. It has been used in neural networks created by Google to improve the map quality by automatically transcribing the address numbers from a patch of pixels. The transcribed number with a known street address helps pinpoint the location of the building it represents.
+Our objective is to predict the number depicted inside the image by using Artificial or Fully Connected Feed Forward Neural Networks and Convolutional Neural Networks. We will go through various models of each and finally select the one that is giving us the best performance. Key tools and packages used for this project: Python (Pandas, numpy, seaborn, cv2, matplotlib, scikit-learn, tensorflow, keras), Jupyter Notebook and Google Colab.
+
+
+
+##### iii) [Using Machine Learning to Predict Breast Cancer](https://github.com/rasiimwe/Code_Examples/blob/main/Predicting_Breast_Cancer_Using_Machine_Learning.ipynb)
 
 This project utilizes the [Breast Cancer Wisconsin (Diagnostic) Data Set](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29) for predictive analysis in breast cancer. Key tools largely used include: Jupyter Notebook, Python - numpy, pandas, matplotlib, plotly, seaborn and scikit-learn to run and compare Logistic Regression, Random Forest, KNeighbors, SVC, DecisionTree, GradientBoosting, AdaBoost, and XGB classification models.
 
 [<img src="images/Breast_Cancer_Prediction.png?raw=true"/>](https://github.com/rasiimwe/Code_Examples/blob/main/Predicting_Breast_Cancer_Using_Machine_Learning.ipynb)
 
+---
+
+#### 6. [Understanding tissue-specific temporal changes after SIV infection to guide HIV treatment](https://github.com/rasiimwe/Galaxy_Transcriptomics)
+
+Human immunodeficiency virus (HIV) has continued to be a public health issue on a global scale and over 35 million people have died due to the onset of acquired immunodeficiency syndrome (AIDS)-related diseases. Early diagnosis is crucial as it enables the control of infection via antiretroviral therapy in addition to reducing the risk of transmission, however, it is estimated that half of the patients with HIV worldwide are “late-presenters” because of the asymptomatic nature of the virus; a rationale for which more knowledge is needed to understand the early stages of HIV infection, and immune response. Simian immunodeficiency virus (SIV), a retrovirus infecting non-human primates, has symptoms and a viral life cycle similar to that of HIV. Phylogenetic analysis also shows that SIV and HIV are ancestrally related and are closely related in viral replication and propagation, making it a good model for understanding early development of infection. This project aimed at evaluating tissue-specific transcriptomic changes in the first ten days after SIV infection in rhesus monkeys. We leveraged various statistical methods such as fitting linear models, cluster analysis, PCA, gene enrichment and pathway analysis, using various CRAN/Bioconductor R packages, and found that significant transcriptomic changes occur as early as day 1 post infection throughout host tissues. This knowledge is crucial for development of treatment as well as vaccines and more effective post-exposure prophylaxis drugs. Please visit the [GitHub project repo](https://github.com/rasiimwe/Galaxy_Transcriptomics/blob/main/README.md) for more details.
+
+[<img src="images/HIV_project.png?raw=true"/>](https://github.com/rasiimwe/Galaxy_Transcriptomics/blob/main/Poster/Poster-FINAL.pdf)
+
+---
+#### 7. [Database design, development and optimization](https://open.library.ubc.ca/media/stream/pdf/24/1.0377717/4)
+
+I have experience with database design, development, optimization and administration. I have worked with Microsoft Access, Oracle, MySQL and PostgreSQL Database Management Systems (DBMSs). 
+
+[<img src="images/Databases.png?raw=true"/>](https://open.library.ubc.ca/media/stream/pdf/24/1.0377717/4)
 
 ---
 
@@ -100,10 +116,10 @@ Developed for training purposes, this is an elementary [dashboard](https://rasii
 ---
 
 ### Publications
-- Asiimwe, R. (2019). [Database-driven whole genome profiling for stratifying Triple Negative Breast Cancers (TNBC)](https://open.library.ubc.ca/media/stream/pdf/24/1.0377717/4) (T). University of British Columbia. Retrieved from https://open.library.ubc.ca/media/stream/pdf/24/1.0377717/4
+- Asiimwe, R. (2019). [Database-driven whole genome profiling for stratifying Triple Negative Breast Cancers (TNBC)](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0377717) (T). University of British Columbia. Retrieved from https://open.library.ubc.ca/media/stream/pdf/24/1.0377717/4
 - Asiimwe, R., Lam, S., Leung, S., Wang, S., Wan, R., Tinker A., McAlpine, N, J., Woo, M., Huntsman, D., Talhouk, A.  [From biobank and data silos into a data commons: convergence to support translational medicine](https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-021-03147-z). *Journal of Translational Medicine* 
 - Konwar, C., Asiimwe, R., Inkster, M, A., Merrill, S., Negri, L, G., Aristizabal, J, Ma., Rider, C., MacIsaac, L, J., Carlsten, C., Kobor, S, M. [Risk-focused differences in molecular processes implicated in SARS-CoV-2 infection: Corollaries in DNA methylation and gene expression](https://epigeneticsandchromatin.biomedcentral.com/articles/10.1186/s13072-021-00428-1). *Epigenetics & Chromatin* 
-- Cheung, D, M.\*, Asiimwe, R.\*, Erman N, E., Fucile, F, C., Liu, S., Sun, C., Hanumanthu, S, V., Pal, C, H., Wright, D, E., Ghajar-Rahimi, G., Epstein, D., Orandi, J, B., Kumar, V., Anderson, J, D., Greene, E, M., Bell, M., Yates, S., Moore, H, K., LaFontaine, J., Killian, T, J, Jr., Baker, G., Perry, J., Reed, R., Little, C, S., Rosenberg, F, A., George, F, J., Locke, E, J., and Porrett, M, P.\*\*, [Spatiotemporal immune atlas of the first clinical-grade, gene-edited pig-to-human kidney xenotransplant](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9882594/), *Nature Communications* (2023), (Manuscript under consideration)
+- Cheung, D, M.\*, Asiimwe, R.\*, Erman N, E., Fucile, F, C., Liu, S., Sun, C., Hanumanthu, S, V., Pal, C, H., Wright, D, E., Ghajar-Rahimi, G., Epstein, D., Orandi, J, B., Kumar, V., Anderson, J, D., Greene, E, M., Bell, M., Yates, S., Moore, H, K., LaFontaine, J., Killian, T, J, Jr., Baker, G., Perry, J., Reed, R., Little, C, S., Rosenberg, F, A., George, F, J., Locke, E, J., and Porrett, M, P.\*\*, [Spatiotemporal immune atlas of the first clinical-grade, gene-edited pig-to-human kidney xenotransplant](https://assets.researchsquare.com/files/rs-2382345/v1_covered.pdf?c=1675194359), *Nature Communications* (2023), (Manuscript under consideration)
 - Asiimwe, R., Alexader, D., Performance Benchmarks: STAR ultrafast universal RNAseq aligner with WASP reference bias correction. (In preparation for submission)   
 <!-- - Asiimwe, R., Konwar, C., Merrill, S., MacIsaac, L, J., Katia, R., Crowell, E, S., Kobor, S, M., Conradt, E. Placental DNA methylation changes associated with opioid use during pregnancy. (In preparation for submission) -->
 
