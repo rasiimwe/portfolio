@@ -105,15 +105,15 @@ I have experience designing, developing, optimizing and managing large-scale dat
 
 I have developed a number of Shiny-based tools, apps and/or dashboards, most of which are internal to the institutions I have worked with. Below are some of the few examples that are public. I have also had some experience conducting data analysis and visualizations using Dash (Python).
 
-1. Not accessible publicly, however, this app's functionality can be viewed in my [thesis (pages 75 - 87)](https://open.library.ubc.ca/media/stream/pdf/24/1.0377717/4)
+Not accessible publicly, however, this app's functionality can be viewed in my [thesis (pages 75 - 87)](https://open.library.ubc.ca/media/stream/pdf/24/1.0377717/4)
 
 [<img src="images/Shinyapp1.png?raw=true"/>](https://open.library.ubc.ca/media/stream/pdf/24/1.0377717/4)
 
-2. Below is another tool [(CoADD)](https://rasiimwe.shinyapps.io/CoADD/) that is under development.  It compares DNA methylation patterns in immune cell types between cord and adult blood:
+Below is another tool [(CoADD)](https://rasiimwe.shinyapps.io/CoADD/) that is under development.  It compares DNA methylation patterns in immune cell types between cord and adult blood:
 
 <img src="images/Shinyapp2.png?raw=true"/>
 
-3. Developed for training purposes, this is an elementary [dashboard](https://rasiimwe.shinyapps.io/NHS_A_and_E_Example_App/) that utilizes a subset of the NHS England A&E (Accident and Emergency) dataset, and shows the weekly and monthly attendances and emergency admissions in a specified period for all A&E types.
+Developed for training purposes, this is an elementary [dashboard](https://rasiimwe.shinyapps.io/NHS_A_and_E_Example_App/) that utilizes a subset of the NHS England A&E (Accident and Emergency) dataset, and shows the weekly and monthly attendances and emergency admissions in a specified period for all A&E types.
 
 [<img src="images/shiny4A.png?raw=true"/>](https://rasiimwe.shinyapps.io/NHS_A_and_E_Example_App/)
 
