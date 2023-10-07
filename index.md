@@ -88,14 +88,14 @@ This project utilized the [Breast Cancer Wisconsin (Diagnostic) Data Set](https:
 
 #### 6. [Understanding Tissue-Specific Temporal Changes after SIV Infection to Guide HIV Treatment](https://github.com/rasiimwe/Galaxy_Transcriptomics)
 
-Human immunodeficiency virus (HIV) has continued to be a public health issue on a global scale, and over 35 million people have died due to the onset of acquired immunodeficiency syndrome (AIDS)-related diseases. Early diagnosis is crucial as it enables the control of infection via antiretroviral therapy in addition to reducing the risk of transmission, however, it is estimated that half of the patients with HIV worldwide are “late-presenters” because of the asymptomatic nature of the virus; a rationale for which more knowledge is needed to understand the early stages of HIV infection, and immune response. Simian immunodeficiency virus (SIV), a retrovirus infecting non-human primates, has symptoms and a viral life cycle similar to that of HIV. Phylogenetic analysis also shows that SIV and HIV are ancestrally related and are closely related in viral replication and propagation, making it a good model for understanding early development of infection. This project aimed at evaluating tissue-specific transcriptomic changes in the first ten days after SIV infection in rhesus monkeys. We leveraged various statistical methods such as fitting linear models, cluster analysis, PCA, gene enrichment and pathway analysis, using various CRAN/Bioconductor R packages, and found that significant transcriptomic changes occur as early as day 1 post infection throughout host tissues. This knowledge is crucial for development of treatment as well as vaccines and more effective post-exposure prophylaxis drugs. Please visit the [GitHub project repo](https://github.com/rasiimwe/Galaxy_Transcriptomics/blob/main/README.md) for more details on this project.
+Human immunodeficiency virus (HIV) has continued to be a public health issue on a global scale, and over 35 million people have died due to the onset of acquired immunodeficiency syndrome (AIDS)-related diseases. Early diagnosis is crucial as it enables the control of infection via antiretroviral therapy in addition to reducing the risk of transmission. However, it is estimated that half of the patients with HIV worldwide are “late-presenters” because of the asymptomatic nature of the virus; a rationale for which more knowledge is needed to understand the early stages of HIV infection, and immune response. Simian immunodeficiency virus (SIV), a retrovirus infecting non-human primates, has symptoms and a viral life cycle similar to that of HIV. Phylogenetic analysis also shows that SIV and HIV are ancestrally related and are closely related in viral replication and propagation, making it a good model for understanding early development of infection. This project aimed at evaluating tissue-specific transcriptomic changes in the first ten days after SIV infection in rhesus monkeys. We leveraged various statistical methods such as fitting linear models, cluster analysis, PCA, gene set enrichment and pathway analysis, using various CRAN/Bioconductor R packages, and found that significant transcriptomic changes occur as early as day 1 post infection throughout host tissues. This knowledge is crucial for development of treatment as well as vaccines and more effective post-exposure prophylaxis drugs. Please visit this [GitHub repo](https://github.com/rasiimwe/Galaxy_Transcriptomics/blob/main/README.md) for more details on this project.
 
 [<img src="images/HIV_project.png?raw=true"/>](https://github.com/rasiimwe/Galaxy_Transcriptomics/blob/main/Poster/Poster-FINAL.pdf)
 
 ---
 #### 7. [Database Design, Development and Optimization](https://open.library.ubc.ca/media/stream/pdf/24/1.0377717/4)
 
-I have experience designing, developing, optimizing and managing large-scale databases, especially PostgreSQL and MySQL Database Management Systems (DBMSs). I have also worked with Microsoft Access, and Oracle.
+I have experience designing, developing, optimizing and managing large-scale databases, especially PostgreSQL and MySQL Database Management Systems (DBMSs). I have also worked with Oracle and Microsoft Access.
 
 [<img src="images/Databases.png?raw=true"/>](https://open.library.ubc.ca/media/stream/pdf/24/1.0377717/4)
 
@@ -104,16 +104,16 @@ I have experience designing, developing, optimizing and managing large-scale dat
 #### 8. Shiny Apps and Dashboards
 
 I have developed a number of Shiny-based tools, apps and/or dashboards, most of which are internal to the institutions I have worked with. Below are some of the few examples that are public. I have also had some experience conducting data analysis and visualizations using Dash (Python).
-Not accessible publicly, however, this app can be viewed in my [thesis (pages 75 - 87)](https://open.library.ubc.ca/media/stream/pdf/24/1.0377717/4)
+
+1. Not accessible publicly, however, this app's functionality can be viewed in my [thesis (pages 75 - 87)](https://open.library.ubc.ca/media/stream/pdf/24/1.0377717/4)
 
 [<img src="images/Shinyapp1.png?raw=true"/>](https://open.library.ubc.ca/media/stream/pdf/24/1.0377717/4)
 
-Below is another tool [(CoADD)](https://rasiimwe.shinyapps.io/CoADD/) that is under development.  It compares DNA methylation patterns in immune cell types between cord and adult blood:
+2. Below is another tool [(CoADD)](https://rasiimwe.shinyapps.io/CoADD/) that is under development.  It compares DNA methylation patterns in immune cell types between cord and adult blood:
 
 <img src="images/Shinyapp2.png?raw=true"/>
 
-
-Developed for training purposes, this is an elementary [dashboard](https://rasiimwe.shinyapps.io/NHS_A_and_E_Example_App/) that utilizes a subset of the NHS England A&E (Accident and Emergency) dataset, and shows the weekly and monthly attendances and emergency admissions in a specified period for all A&E types.
+3. Developed for training purposes, this is an elementary [dashboard](https://rasiimwe.shinyapps.io/NHS_A_and_E_Example_App/) that utilizes a subset of the NHS England A&E (Accident and Emergency) dataset, and shows the weekly and monthly attendances and emergency admissions in a specified period for all A&E types.
 
 [<img src="images/shiny4A.png?raw=true"/>](https://rasiimwe.shinyapps.io/NHS_A_and_E_Example_App/)
 
