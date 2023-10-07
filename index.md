@@ -8,7 +8,7 @@ H1{color:SteelBlue !important;}
 ---
 ## Sample Projects: 
 
-#### 1. [Whole Genome Profiling for Stratifying Triple Negative Breast Cancers (TNBC): Deriving insights into the genomic underpinnings and treatment of TNBCs](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0377717)
+#### 1. [Whole Genome Profiling for Stratifying Triple Negative Breast Cancers (TNBC): Deriving Insights into the Genomic Underpinnings and Treatment of TNBCs](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0377717)
 
 The aim of this research project was to design, develop, optimize and utilize a relational database to structure, integrate, store, query, mine, statistically analyze and visualize large-scale whole genome profiling data from tumors of triple negative breast cancer patients alongside orthogonally collected clinical data. Overall, the study was conducted to support the elucidation of the genomic events underpinning a patient’s disease while providing an in-depth understanding and exploration of the landscape of characteristic mutations occurring in patient genomes that may reflect specific mutational processes as targetable vulnerabilities in the treatment of TNBCs. We further stratified our cohort of TNBC patients and discovered for the first time, and to the best of our knowledge, five genomic and clinically distinct subgroups, revealed by unsupervised hierarchical clustering, based on mutation signatures, and somatic mutations in patient genomes. This work further supported the use of the genome as a potential discriminant biomarker in subgroup discovery from which we can draw valuable insights into options for novel therapeutic modalities and the identification of patients most likely to respond to specific forms of treatment. Please see [publication](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0377717) for details on this project including methods applied. 
 
@@ -16,7 +16,7 @@ The aim of this research project was to design, develop, optimize and utilize a 
 
 ---
 
-#### 2. Single-cell RNA sequencing (scRNA-Seq), CITE-seq and Spatial Transcriptomics Projects
+#### 2. Single-Cell RNA Sequencing (scRNA-Seq), CITE-Seq and Spatial Transcriptomics Projects
 
 I have had the privilege of conducting single‐cell RNA sequencing analyses of millions of cells from over 100 libraries and experiments including single nuclear RNA sequencing (snRNA-Seq) analyses. Transcriptomic profiling of complex tissues identifies known and novel features of the transcriptome and provides insights into tissue cell type diversity and dynamics that have a great impact on disease diagnostics, prevention, and drug discovery - all based on measures of gene and transcript abundance.
 
