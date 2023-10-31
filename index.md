@@ -53,7 +53,7 @@ Allele specific expression (ASE) refers to the preferential expression of one al
 
 #### 4. [DNA Methylation and Genotyping Data Analyses](https://epigeneticsandchromatin.biomedcentral.com/articles/10.1186/s13072-021-00428-1)
 
-Provided below is an overview of extracts from various projects for developed data preprocessing pipelines, and up or downstream analyses such as those conducted in this [manuscript](https://epigeneticsandchromatin.biomedcentral.com/articles/10.1186/s13072-021-00428-1). Projects I have conducted in this domain ([DNA methylation](https://github.com/kobor-lab/Public-Scripts/blob/master/COVID-19/DNAme%20preprocessing.Rmd) and genotyping) follow similar pipelines and analyses. 
+Provided below is an overview of extracts from various projects for developed data preprocessing pipelines, and up or downstream analyses such as those conducted in this [manuscript](https://epigeneticsandchromatin.biomedcentral.com/articles/10.1186/s13072-021-00428-1). Projects I have conducted in this domain (DNA methylation and genotyping) follow similar [pipelines and analyses](https://github.com/kobor-lab/Public-Scripts/blob/master/COVID-19/DNAme%20preprocessing.Rmd). 
 
 <!--- - some soon to be published and released into the public domain as well. --->
 
