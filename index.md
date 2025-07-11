@@ -131,6 +131,8 @@ Below is another tool [(CoADD)](https://rasiimwe.shinyapps.io/CoADD/) that is un
 - Meijer, M., Konwar, C., **Asiimwe, R.,** Maclsaac, J., Lin, D., Garland, E., Ostlund, B., Kobor, S, M., Crowell, E, S., Conradt, E. Prenatal opioid usage is associated with placental DNA methylation patterns in newborns independent of genetic predisposition. (In preparation for submission). 
 - Jones, J, M., Konwar, C., Dinh, L., **Asiimwe, R.,** Razzaghian, R, H., Olivia de Goede, MacIsaac, L, J., Morin, A, A., Kolsun, K., Gervin, K., Ng, R., Duijts, L., C van Zelm, M., Moll, A, H., Lyle, R., Robinson, P, W., Koestler, C, D., Felix, F, J., Lavoie, M, P., Mostafavi, S., and Kobor, S, M. DNA methylation differences between cord and adult white blood cells reflect postnatal immune cell maturation. Nature (Undergoing revisions).  
   * **Asiimwe, R.,** further developed [CoADD](https://rasiimwe.shinyapps.io/CoADD/), a tool that supplements this manuscript for utility by the broader research community in comparing DNA methylation patterns across six immune cell types, between cord blood and adult blood, at specific CpG sites.
+ 
+#### Please visit [Google Scholar](https://scholar.google.com/citations?user=XVmaJvYAAAAJ&hl=en) or [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Asiimwe+Rebecca) for a full list of my publications.
 
 <!-- - Asiimwe, R., Konwar, C., Merrill, S., MacIsaac, L, J., Katia, R., Crowell, E, S., Kobor, S, M., Conradt, E. Placental DNA methylation changes associated with opioid use during pregnancy. (In preparation for submission) -->
 
