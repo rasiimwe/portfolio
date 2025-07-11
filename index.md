@@ -6,7 +6,7 @@ H1{color:SteelBlue !important;}
 
 
 ---
-## Sample Projects: 
+## Sample Research Projects: 
 
 #### 1. [Whole Genome Profiling for Stratifying Triple Negative Breast Cancers (TNBC): Identifying somatic alterations in tumor genomes of TNBC patients for subgroup discovery, and the identification of potentially actionable molecular events that could provide insights into treatment options for TNBC patients](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0377717)
 
