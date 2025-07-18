@@ -8,7 +8,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   technologies (inclusive of machine learning, deep learning, and artificial intelligence) for integrating, managing, and analyzing high-dimensional datasets, to support 
   the elucidation and discovery of hidden patterns, and unknown correlations in biological data, specifically data from sequencing human samples.
   <br><br>
-  Experienced in: Computer programming, the analysis of high-dimensional and high-throughput data including next-generation sequencing (NGS) data, data processing (ETL), modeling, mining, analysis and visualization, 
+  Experienced in: Computer programming, the analysis of high-dimensional and high-throughput data, including next-generation sequencing (NGS) data, data processing (ETL), modeling, mining, analysis and visualization, 
   building analytics pipelines, developing innovative computational, and data-driven tools, and systems to solve complex problems in diverse domains; high-performance cluster computing, Python (Pandas, Numpy, Seaborn, Matplotlib, Scikit-learn, 
   Keras, TensorFlow), shell scripting, command line interface, Jupyter Notebook, Google Colab, Anaconda, R, RStudio, Shiny, Plotly, GitHub, GIT version control, website development, database development, 
   management and optimization (MySQL and PostgreSQL), standard NGS Bioinformatics toolset, PLINK, GenomeStudio, Cell Ranger and Space Ranger.
