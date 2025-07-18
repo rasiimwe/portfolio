@@ -95,7 +95,7 @@ Human immunodeficiency virus (HIV) has continued to be a public health issue on 
 ---
 #### 7. [Database Design, Development and Optimization](https://open.library.ubc.ca/media/stream/pdf/24/1.0377717/4)
 
-I have experience designing, developing, optimizing and managing large-scale databases, especially PostgreSQL and MySQL Database Management Systems (DBMSs). I have also worked with Oracle and Microsoft Access.
+I have extensive experience in the design, developement, optimization and management of large-scale databases, especially PostgreSQL and MySQL Database Management Systems (DBMSs). I have also worked with Oracle and Microsoft Access.
 
 [<img src="images/Databases.png?raw=true"/>](https://open.library.ubc.ca/media/stream/pdf/24/1.0377717/4)
 
