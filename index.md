@@ -109,7 +109,7 @@ Not accessible publicly, however, this app's functionality can be viewed in my [
 
 [<img src="images/Shinyapp1.png?raw=true"/>](https://open.library.ubc.ca/media/stream/pdf/24/1.0377717/4)
 
-Below is another tool [(CoADD)](https://rasiimwe.shinyapps.io/CoADD_KoborLab/) that I developed to supplement this manuscript: https://www.nature.com/articles/s42003-025-07661-4 . CoADD compares DNA methylation patterns in immune cell types between cord and adult blood, and it was developed during my time at the Kobor Lab:
+Below is another tool [(CoADD)](https://rasiimwe.shinyapps.io/CoADD/) that I developed to supplement this manuscript: https://www.nature.com/articles/s42003-025-07661-4 . CoADD compares DNA methylation patterns in immune cell types between cord and adult blood, and it was developed during my time at the Kobor Lab:
 
 <img src="images/Shinyapp2.png?raw=true"/>
 
